@@ -44,3 +44,4 @@ console.log(textOne.toLowerCase());
 
 let textTwo = 'фрилансер';
  console.log(textTwo.indexOf('лан'));
+ console.log(textTwo.includes('лан'));
